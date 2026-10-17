@@ -1,0 +1,6 @@
+{
+  "appId": "com.motolog.app",
+  "appName": "MotoLog",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
